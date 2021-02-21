@@ -1,1 +1,1 @@
-# shopee-opencart
+# Shopee Importer OcMod for Opencart
